@@ -1,0 +1,31 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body:after{
+    position: absolute;
+    content: "";
+    height: 50%;
+    width: 100%;
+    background: #eb5191;
+    top: 0;
+}
+body:before{
+    position: absolute;
+    content: "";
+    height: 50%;
+    width: 100%;
+    background: #fff;
+    bottom: 0;
+}
+.container{
+    z-index: 1;
+    width: 70%;
+    margin:0 auto;
+    border-radius: 24px;
+    background: #f6f5f8;
+    padding: 2%;
+    box-shadow: 0px 10px 6px -8px rgba(0,0,0,0.75);
+}

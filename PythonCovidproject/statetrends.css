@@ -1,0 +1,258 @@
+body{
+    height: 150vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body:after{
+    position: absolute;
+    content: "";
+    height: 50%;
+    width: 100%;
+    background: #eb5191;
+    top: 0;
+}
+body:before{
+    position: absolute;
+    content: "";
+    height: 50%;
+    width: 100%;
+    background: #fff;
+    bottom: 0;
+}
+.container{
+    z-index: 1;
+    width: 70%;
+    margin:0 auto;
+    border-radius: 24px;
+    background: #f6f5f8;
+    padding: 2%;
+    box-shadow: 0px 10px 6px -8px rgba(0,0,0,0.75);
+}
+.State{
+    column-count: 4;
+    column-gap: 1rem;
+}
+.board{
+    text-align: center;
+}
+.container h2{
+    margin: 0px 0px 20px;
+    text-align: center;
+}
+.AndhraPradesh{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.ArunachalPradesh{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Assam{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Bihar{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Chhattisgarh{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Goa{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Gujarat{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Haryana{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.HimachalPradesh{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Jharkhand{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Karnataka{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.MadhyaPradesh{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Maharashtra{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Manipur{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Meghalaya{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Mizoram{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Nagaland{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Odisha{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Punjab{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Rajasthan{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Sikkim{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.TamilNadu{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Telengana{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Tripura{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.Uttarakhand{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.UttarPradesh{
+    background: #41a7ff;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
+.WestBengal{
+    background: #ff8741;
+    width: 84%;
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+}
